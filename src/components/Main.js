@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Form from './Form';
 import Tarefas from './Tarefas';
-
 import './Main.css';
 
 
